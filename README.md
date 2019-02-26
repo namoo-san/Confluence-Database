@@ -1,2 +1,13 @@
 # Confluence-MySQL
-Setup Confluence + MySQL Script
+
+ちょっと楽にするやつ
+
+### Amazon Linux + MySQL
+
+`run-mysql.sh`
+
+### Amazon Linux + PostgreSQL
+
+`run-postgresql.sh`
+
+べた書き

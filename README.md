@@ -1,4 +1,4 @@
-# Confluence-MySQL
+# Confluence-Database
 
 ちょっと楽にするやつ
 
